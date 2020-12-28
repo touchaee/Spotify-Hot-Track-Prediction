@@ -7,35 +7,28 @@
 * [Technologies](#technologies)
 * [Features](#features)
 * [Status](#status)
-* [Inspiration](#inspiration)
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+The project is intended to predict whether a song has a chance to be in the top 30 of Spotify Charts, based on the various audio features of the song and the number of streams to that song throughout 2019 - 2020.
 
 ## Screenshots
-![Example screenshot](./img/screenshot.png)
+![Example screenshot](./img/Screenshot.png)
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* Python - version 3.6
+
 
 ## Features
-List of features ready and TODOs for future development
-* Awesome feature 1
-* Awesome feature 2
-* Awesome feature 3
+List of features ready
+* Predict the track on the Thai market
 
 To-do list:
-* Wow improvement to be done 1
-* Wow improvement to be done 2
+* Compare to international track.
+* Model to tell which country that track will be on top Spotify charts.
 
 ## Status
 Project is: _no longer continue_
-
-## Inspiration
-Add here credits. Project inspired by..., based on...
 
 ## Contact
 Created by [@touchaee](https://touchaee.github.io) - feel free to contact me!
