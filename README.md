@@ -38,4 +38,4 @@ Project is: _no longer continue_
 Add here credits. Project inspired by..., based on...
 
 ## Contact
-Created by [@flynerdpl](https:touchaee.github.io) - feel free to contact me!
+Created by [@touchaee](https://touchaee.github.io) - feel free to contact me!
